@@ -4,11 +4,19 @@
 
 A web application built with Next.js and Firebase that allows users to log their daily moods and visualize trends over time. This project serves as a mood tracker, helping users understand their emotional patterns.
 
+## Register
+
 ![screencapture-localhost-3000-dashboard-2024-10-10-04_34_01](https://github.com/user-attachments/assets/b0a48fd6-55bf-474d-8778-9a8cb832399f)
+
+## Login
 
 ![screencapture-localhost-3000-dashboard-2024-10-10-04_34_24](https://github.com/user-attachments/assets/1a3af1a0-96c7-4b40-8b05-7ca044084c5c)
 
+## Home Page
+
 ![screencapture-localhost-3000-2024-10-10-04_36_03](https://github.com/user-attachments/assets/26f55163-68db-4bf1-b3ad-f89310e4bd3b)
+
+## Dashboard
 
 ![screencapture-localhost-3000-dashboard-2024-10-10-04_35_45](https://github.com/user-attachments/assets/0f35c941-3864-4ebe-bcb1-2cb11554d452)
 
